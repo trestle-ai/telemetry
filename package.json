@@ -1,6 +1,6 @@
 {
   "name": "@trestle/telemetry",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Workflow telemetry queue for Trestle (bundled into @trestle/sdk)",
   "type": "module",
   "main": "./dist/index.js",
